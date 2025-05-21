@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gentlejay
+- 👋 Hi, I’m @gentlejay 🪿
 - 👀 I’m interested in Web3 and related projects, active participation and interaction gives me an edge
 - 🌱 I’m currently learning node cration, contract deployment and I test dApps and participate and give quality feedback to upcoming project's Alpha and Beta phases.
 - 💞️ I’m looking to collaborate on Crypto, DeFi and NFT related projects.
